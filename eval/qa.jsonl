@@ -1,0 +1,23 @@
+{"q": "How many books can an undergraduate student borrow and for how many days?", "facts": [["2books","twobooks"], ["14days"]]}
+{"q": "How many books can a postgraduate student borrow?", "facts": [["4books","fourbooks"]]}
+{"q": "What is the loan period for law students in the library?", "facts": [["7days"]]}
+{"q": "What fine is charged per day for late return of library books?", "facts": [["rs5","rs.5","₹5"]]}
+{"q": "What is the maximum number of pages that can be photocopied from a book in the library?", "facts": [["60pages"]]}
+{"q": "How many copies of a textbook can the library have at most?", "facts": [["5copies","fivecopies"]]}
+{"q": "How long can a symposium hall be booked for at the library?", "facts": [["1hour","onehour","1hr"]]}
+{"q": "How many hours of classroom teaching make one credit for theory courses?", "facts": [["15hours"]]}
+{"q": "How many hours of laboratory work equal one credit?", "facts": [["30hours"]]}
+{"q": "How many chances do I get to repeat the mid semester examination (MSE) in a 3-year programme?", "facts": [["2chances","twochances"]]}
+{"q": "What reduction in weightage applies to each repeat MSE?", "facts": [["15%","15percent"]]}
+{"q": "Is a dress code applicable on examination days?", "facts": [["dresscode"], ["mustbefollowed","yes","applicable","required","mandatory"]]}
+{"q": "Within how long must corrections to an evaluated answer script be addressed?", "facts": [["24hours"]]}
+{"q": "How far in advance must auditorium bookings be made?", "facts": [["oneweek","1week","aweek"]]}
+{"q": "In which year was Christ College established?", "facts": [["1969"]]}
+{"q": "What is the vision of CHRIST University?", "facts": [["excellence"], ["service"]]}
+{"q": "Who was the founder of the CMI congregation that administers CHRIST?", "facts": [["chavara"]]}
+{"q": "In which year was the CMI congregation founded?", "facts": [["1831"]]}
+{"q": "What is the late fine for failing to renew a student visa on time?", "facts": [["$300","us$300","300"]]}
+{"q": "Who must approve university-wide surveys conducted on campus?", "facts": [["registrar"]]}
+{"q": "What is the hostel fee for a first-year student?", "unanswerable": true}
+{"q": "What is the salary of the Vice Chancellor?", "unanswerable": true}
+{"q": "Which cafeteria serves the best food on campus?", "unanswerable": true}

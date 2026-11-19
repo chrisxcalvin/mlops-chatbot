@@ -1,0 +1,22 @@
+# secrets
+.env
+
+# large / generated (rebuild with: python -m src.ingest, ./download_models.sh)
+models/
+*.part
+data/chroma/
+data/chunks.json
+mlflow.db
+mlruns/
+logs/
+
+# source document + personal photos (add manually if you have the right to share them)
+data/*.pdf
+web/photo.png
+web/photo2.png
+
+# python / tooling
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

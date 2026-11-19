@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CHRIST Student Helpdesk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/style.css?v=14">
+</head>
+<body>
+<div class="shell">
+  <aside class="side">
+    <div class="brand">
+      <div class="logo"><img src="/static/christ_logo.png" alt="CHRIST (Deemed to be University) emblem"></div>
+      <div><h1>CHRIST</h1><small>Student Helpdesk</small></div>
+    </div>
+    <button class="newchat" id="clear">＋ New chat</button>
+
+    <nav class="nav">
+      <button class="tab on" data-tab="chat"><i>💬</i> Chat</button>
+      <button class="tab" data-tab="compare"><i>📊</i> Model Comparison</button>
+    </nav>
+
+    <div class="sec">Model</div>
+    <div class="models" id="models"></div>
+    <p class="hint" id="modelNote"></p>
+
+    <div class="side-foot">
+      <div class="logos">
+        <div class="logo-badge"><img src="/static/logo.svg" alt="BJP logo" width="56" height="60"></div>
+        <div class="logo-badge"><img src="/static/logo2.svg" alt="Congress logo" width="60" height="60"></div>      </div>
+      Answers come only from the<br><b>Student Handbook 2026-27</b>
+    </div>
+  </aside>
+
+  <section class="content">
+    <div id="tab-chat" class="pane">
+      <main id="msgs" aria-live="polite">
+        <div class="welcome" id="welcome">
+          <div class="bot big">🎓</div>
+          <h2>How can I help you today?</h2>
+          <p>Ask about exams, attendance, library, fees, hostels, programmes and more. Every answer cites the handbook page it came from.</p>
+          <div class="chips" id="chips"></div>
+        </div>
+      </main>
+      <div class="dock">
+        <form class="composer" id="form">
+          <input id="input" placeholder="Type your question…" maxlength="800" autocomplete="off" autofocus>
+          <button class="send" aria-label="Send">➤</button>
+        </form>
+        <div class="foot">AI can make mistakes. Please verify important details with the University office.</div>
+      </div>
+    </div>
+
+    <div id="tab-compare" class="pane" hidden>
+      <div class="cmp" id="cmp"><p class="note">Loading…</p></div>
+    </div>
+  </section>
+</div>
+<script src="/static/app.js?v=14"></script>
+</body>
+</html>

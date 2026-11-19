@@ -1,0 +1,20 @@
+{"q": "How many books can an undergraduate student borrow from the library?", "must": ["2 books", "14 days"]}
+{"q": "How many books can a postgraduate student borrow and for how long?", "must": ["4 books"]}
+{"q": "What is my library card?", "must": ["ID card is your library card"]}
+{"q": "What is the maximum number of pages I can photocopy from a book?", "must": ["60 pages"]}
+{"q": "How many hours of classroom teaching is one credit for theory courses?", "must": ["15 hours"]}
+{"q": "How many chances do I get to repeat a course in a 3 year programme?", "must": ["3-year programmes"]}
+{"q": "Is there a dress code on exam days?", "must": ["dress code must be followed"]}
+{"q": "How long do I have to raise corrections after receiving an evaluated answer script?", "must": ["24 hours"]}
+{"q": "Are hostel entry and exit timings compulsory?", "must": ["entry and exit timings"]}
+{"q": "Can I have visitors in my hostel room?", "must": ["Warden"]}
+{"q": "How far in advance must auditorium bookings be made?", "must": ["one week in advance"]}
+{"q": "What is the vision of the university?", "must": ["Excellence and Service"]}
+{"q": "What are the core values of CHRIST?", "must": ["Moral Uprightness"]}
+{"q": "Who founded the congregation that runs CHRIST?", "must": ["Chavara"]}
+{"q": "When was Christ College established?", "must": ["1969"]}
+{"q": "Which grounds can lead to cancellation of PhD registration like plagiarism?", "must": ["plagiarism"]}
+{"q": "Who must approve surveys conducted on campus university-wide?", "must": ["Registrar"]}
+{"q": "Is attendance mandatory in bridge courses?", "must": ["Attendance will be mandatory"]}
+{"q": "Fee concession and scholarships for deserving students", "must": ["fee concession"]}
+{"q": "What does the star in the university logo symbolize?", "must": ["Star of Heaven"]}
